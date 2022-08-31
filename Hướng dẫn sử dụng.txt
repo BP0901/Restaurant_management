@@ -1,0 +1,6 @@
+Phần mền hỗ trợ quản lý quán ăn dùng csdl là MySQL.
+File WebService: viết bằng php xử lý API, kết nối với database.
+File Database: chứa file database.
+Tài khoản đăng nhập demo:
+	Quản lý(username / password): admin / admin
+	Phục vụ(username / password): staff1 / staff1	, staff1 / staff1
